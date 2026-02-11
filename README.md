@@ -1,5 +1,4 @@
-# AMUHACKS5.0-CTF
-# Root Access 2026 - CTF Writeups
+# AMUHACKS5.0-CTF Writeups
 
 A collection of writeups from the Root Access 2026 CTF.
 
